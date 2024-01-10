@@ -1,7 +1,7 @@
 ## SKAALAB TEST BACKEND
 
 # Install packages
-npm i
+yarn
 
 # Start project
-npm run start
+yarn start
